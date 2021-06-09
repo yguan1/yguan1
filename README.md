@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning full-stack android development
 - ✨ I love baking and cooking
 - 🐱 I have a cute tabby cat named Nomi, which means sticky rice in Chinese
-- 📫 Connect we me on [LinkedIn] (https://www.linkedin.com/in/yuxin-guan/) or send me an [E-mail] (yguan1@uchicago.edu)!
+- 📫 Connect we me on [LinkedIn](https://www.linkedin.com/in/yuxin-guan/) or send me an [E-mail](yguan1@uchicago.edu)!
 
 <!---
 yguan1/yguan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
